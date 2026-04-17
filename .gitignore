@@ -1,0 +1,32 @@
+## Visual Studio ignore
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## User-specific files
+*.user
+*.userprefs
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bbin/
+obj/
+bin/
+
+## Roslyn cache directories
+*.ide/
+
+## Others
+.vscode/
+.DS_Store
+Thumbs.db
